@@ -1,0 +1,17 @@
+:root {
+    --primary-color: hsl(271,76%,53%);
+    --title-color: hsl(0,0%,40%);
+    --text-color: hsl(0,0%,50%);
+    --body-color: hsl(0,0%,100%);
+    --container-color: hsl(0,0%,93%);
+    --border-color: hsl(0,0%,87%);
+  }
+  
+
+.dark-theme {
+    --title-color: hsl(0,0%,100%);
+    --text-color: hsl(0,0%,80%);
+    --body-color: hsl(0,0%,7%);
+    --container-color: hsl(0,1%,17%);
+    --border-color: hsl(0,0%,15%);
+}
